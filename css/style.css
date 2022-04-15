@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+body h1 {
+    text-align: center;
+    color: #faaa8d;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    text-decoration: underline;
+}
+
+strong {
+	color: red;
+}
+
+.imgSize {
+	height: 600px;
+}
+
+p {
+	text-align: justify;
+}
+
+.desc {
+	text-align: justify;
+}
